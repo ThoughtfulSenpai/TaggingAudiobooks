@@ -15,6 +15,9 @@ becomes
 
 That way, when you build the audiobook into a .mb4, you set the Author to the Editor of the compendium, yet still know the original author for each chapter.
 
+<img width="1079" alt="Captura de Pantalla 2022-10-19 a la(s) 6 43 50 p m" src="https://user-images.githubusercontent.com/100229664/196830973-94ad0c48-8eb8-44ec-9500-94c09851703f.png">
+
+
 
 ## **Delete after -**
 
