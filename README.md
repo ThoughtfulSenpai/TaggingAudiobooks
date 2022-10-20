@@ -1,7 +1,9 @@
 # TaggingAudiobooks
 Tagging actions for MP3Tag aimed at audiobooks
 
-**Compendium** <br>
+
+
+## **Compendium** <br>
 There are some times when books are collections of stories, poems or essays by different authors. This action helps in setting the Filename property into a _"Name of the chapter" ("autor")_ format. This is in turn useful when you decide to build a .mb4 file from them and only keep the editor as Main Author of the compilation.
 
 
@@ -13,4 +15,15 @@ becomes
 
 That way, when you build the audiobook into a .mb4, you set the Author to the Editor of the compendium, yet still know the original author for each chapter.
 
+
+## **Delete after -**
+
+Sometimes we get audiobooks with long subtitles which clutter the filename or title. 
+Whenever you want to turn titles such as
+
+A Book - An Incredibly long and pretentious subtitle which makes the book look fancy and sounds smart. 
+into just
+A Book
+
+We can use this quick action. Delete everything after "-"
 
