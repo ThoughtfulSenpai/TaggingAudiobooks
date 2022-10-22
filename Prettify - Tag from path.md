@@ -21,3 +21,5 @@ So, all of your folders are neatly set, but the actual tags are a mess. In this 
 ├── ├─ Oliver Twist/
 └── ├─ Bleak House/
 ```
+
+https://github.com/ThoughtfulSenpai/TaggingAudiobooks/blob/main/Actions/01_Book%20name%20from%20Folder%23%26%25artist%25%20-%20%25album%25.mta
