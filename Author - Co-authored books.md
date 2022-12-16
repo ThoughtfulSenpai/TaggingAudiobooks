@@ -19,6 +19,7 @@ will become
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/100229664/196850314-7243a48a-40a6-4092-ab52-979402c9cda5.png">
 
 ## **Author: Co-authored books - Keep Second Author**
+[open .mta file](https://github.com/ThoughtfulSenpai/TaggingAudiobooks/blob/main/Actions/Audiobooks%23Coathored%20books%23Keep%20second%20author.mta)
 
 Same as above, but for keeping the second author. Useful when dealing with translators, editors, etc that have inverted authors. Use this action to normalize them and group them as one single author. 
 
