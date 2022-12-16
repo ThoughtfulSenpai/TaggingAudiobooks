@@ -1,0 +1,23 @@
+﻿[#0]
+T=5
+1=$trim(%artist%)
+F=ARTIST
+
+[#1]
+T=5
+1=$trim(%albumartist%)
+F=ALBUMARTIST
+
+[#2]
+T=4
+F=ARTIST
+1=^([\\w]+),\\s([\\w]+)
+2=$2 $1
+3=0
+
+[#3]
+T=4
+F=ALBUMARTIST
+1=^([\\w]+),\\s([\\w]+)
+2=$2 $1
+3=0
