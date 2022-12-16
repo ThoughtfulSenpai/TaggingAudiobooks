@@ -1,4 +1,5 @@
 ## **Author: Switch last name and first name**
+Personally, I dislike the format of inverted names. I prefer "William Shakespeare" over "Shakespeare, William". This action deals with that.
 
 _Switch:_
 
