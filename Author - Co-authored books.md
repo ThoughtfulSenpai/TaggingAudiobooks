@@ -2,6 +2,8 @@
 
 ## **Author: Co-authored books - Keep First Author**
 
+[open .mta file](https://github.com/ThoughtfulSenpai/TaggingAudiobooks/blob/main/Actions/Audiobooks%23Coathored%20books%23Keep%20first%20author.mta)
+
 When books have two (or more authors), and managing large libraries, that can quickly turn into a mess. Apps like prologue will treat duos like individual authors, which is sometimes not ideal. If you rather keep only the first author (usually the main one), use this action to normalize them and group them as one single author. 
 
 It will keep the author that comes _before_ either 
