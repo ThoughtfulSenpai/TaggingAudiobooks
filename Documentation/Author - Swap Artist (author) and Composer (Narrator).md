@@ -1,6 +1,6 @@
 ## **Author: Narrator and Author - Swap fields**
 
-[open .mta file]()
+[open .mta file](https://github.com/ThoughtfulSenpai/TaggingAudiobooks/blob/main/Actions/Audiobooks%23Author%23Swap%20Artist%20to%20Composer.mta)
 
 This action will swap the "Artist" field with the "Composer" fields. This is useful when you have the narrator's name and the author's name reversed.
 *Example:*
@@ -20,6 +20,5 @@ Prologue pulls Narrator info from the "Composer" field. So, keep that in mind wh
 
 The end result should look something like this when browsing your books from your iPhone.
 
-<img width="336" alt="image" src="https://user-images.githubusercontent.com/100229664/209456304-87ac53e6-2679-4796-bed8-c982c0ae8df1.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/100229664/209456304-87ac53e6-2679-4796-bed8-c982c0ae8df1.png">
 
-<img width="336" alt="image" src="https://user-images.githubusercontent.com/100229664/209456328-e0691841-a63b-4914-bcde-b9efb5464d16.png">
