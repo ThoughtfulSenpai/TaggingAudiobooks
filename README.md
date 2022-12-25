@@ -9,5 +9,8 @@ Also, I am no software developer, just one who enjoys tinkering with stuff. So, 
 
 
 
-
+Notes: 
+Actions contains the .mta files per se. 
+Documentation contains the explanation of each shortcut.
+WIP is a mix of stuff in progress. Nothing there is usable yet. I´m keeping all sorts of notes and clutter there.
 
